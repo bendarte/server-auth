@@ -1,6 +1,6 @@
 # Bendarte - Authentication Server.
 
-![project_structure](https://github-production-user-asset-6210df.s3.amazonaws.com/143492796/302132306-6f99bb24-35a0-4735-8b85-c9d9cb7575f9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240209T171901Z&X-Amz-Expires=300&X-Amz-Signature=9db0c5481276c6cbbb10d360c079fd433a75a049daa5e2f0d82bf88cea7df245&X-Amz-SignedHeaders=host&actor_id=143505763&key_id=0&repo_id=743937813)
+
 
 ## Run Complete Project:
 
